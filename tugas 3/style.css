@@ -1,0 +1,19 @@
+p{
+    background-color: gray;
+}
+.paragraf_1{
+    background-color: orange;
+    font-size: 13px;
+}
+.paragraf_2{
+    background-color: blue;
+    color: white;
+    font-size: 14px;
+}
+.paragraf_3{
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.paragraf_4{
+    font-weight: bolder;
+}
